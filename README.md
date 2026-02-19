@@ -140,7 +140,3 @@ Tech Stack
 
 Subhashini G
 AI/ML Practitioner | Data Science Enthusiast
-
-
-
-Tell me your next step.
